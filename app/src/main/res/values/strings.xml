@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomDataBase</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_email_address">enter your email address</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+</resources>
